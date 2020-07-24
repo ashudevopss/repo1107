@@ -1,1 +1,2 @@
 This is text file
+Added 2nd row in this file
